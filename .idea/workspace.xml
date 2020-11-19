@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71666404-9a3e-4815-9caa-dca1f3e10670" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kVFr09EN05of5wZqPVrC79Kc2q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MAXMANTECH" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71666404-9a3e-4815-9caa-dca1f3e10670" name="Default Changelist" comment="" />
+      <created>1605778047470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605778047470</updated>
+      <workItem from="1605778048779" duration="2129000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="323" y="718" width="424" height="491" key="FileChooserDialogImpl" timestamp="1605778110463">
+      <screen x="0" y="867" width="1080" height="1053" />
+    </state>
+    <state x="323" y="718" width="424" height="491" key="FileChooserDialogImpl/1080.840.1920.1080/0.867.1080.1053@0.867.1080.1053" timestamp="1605778110463" />
+    <state x="203" y="867" key="search.everywhere.popup" timestamp="1605778225192">
+      <screen x="0" y="867" width="1080" height="1053" />
+    </state>
+    <state x="203" y="867" key="search.everywhere.popup/1080.840.1920.1080/0.867.1080.1053@0.867.1080.1053" timestamp="1605778225192" />
+  </component>
+</project>
